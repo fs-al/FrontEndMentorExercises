@@ -1,0 +1,40 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    /* font-weight: 400, 700; */
+    font-family: 'Outfit', sans-serif;
+    
+}
+
+.container {
+    width: 650px;
+    height: 1000px;
+    background-color: white;
+    margin: 200px auto 30px;
+    text-align: center;
+    border-radius: 5%;
+}
+img {
+    border-radius: 5%;
+    margin: 40px;
+}
+
+p{
+    margin: auto auto 40px;
+    width: 600px;
+}
+
+.p1 {
+    color: hsl(218, 44%, 22%);
+    width: 80%;
+    font-size: 3rem;
+}
+
+.p2 {
+    color: hsl(212, 45%, 89%);
+    width: 80%;
+    font-size: 2rem;
+}
+
